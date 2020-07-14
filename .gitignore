@@ -3,6 +3,7 @@ dist/bundle.jsapp-server/jsonassets.
 www/assert/*
 www/rd2hash/index.html
 /www/index.html
+/www/main.js
 www/assets/*
 www/rd2hash/assets/assets.json
 #www/img/*
